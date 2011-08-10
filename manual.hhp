@@ -1,0 +1,20 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=manual.chm
+Contents file=Table of Contents.hhc
+Default Window=main
+Default topic=help files/intro.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x409 English (United States)
+Title=Reconstruct Help Manual
+
+[WINDOWS]
+main="Reconstruct Help Manual","Table of Contents.hhc","Index.hhk","help files/intro.htm",,,,,,0x42120,,0x200e,[370,150,1250,750],,,,,,,0
+
+
+[FILES]
+help files\intro.htm
+
+[INFOTYPES]
+

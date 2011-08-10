@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=mousecmds.chm
+Default Window=main
+Display compile progress=No
+Language=0x409 English (United States)
+Title=Reconstruct Mouse Commands
+
+[WINDOWS]
+main="Reconstruct Mouse Commands",,,,,,,,,0x42000,,0x2000,[198,59,831,815],,,,,,,0
+
+
+[FILES]
+help files\mousecmds.htm
+
+[INFOTYPES]
+

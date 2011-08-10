@@ -1,0 +1,16 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=keycmds.chm
+Default Window=main
+Display compile progress=No
+Language=0x409 English (United States)
+
+[WINDOWS]
+main="Reconstruct Keyboard Commands",,,,,,,,,0x2000,,0x2000,[278,4,995,713],,,,,,,0
+
+
+[FILES]
+help files\keycmds.htm
+
+[INFOTYPES]
+
